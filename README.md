@@ -1,2 +1,3 @@
 # CGYY
-USTC gym appointment
+gym appointment
+
